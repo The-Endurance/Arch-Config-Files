@@ -1,0 +1,27 @@
+2021/08/21-19:05:34.643 160b Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/21-19:05:34.644 160b Recovering log #44
+2021/08/21-19:05:34.648 160b Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000044.log 
+2021/08/21-19:05:34.649 160b Delete type=2 #43
+2021/08/21-19:05:37.018 185d Level-0 table #49: started
+2021/08/21-19:05:37.024 185d Level-0 table #49: 432908 bytes OK
+2021/08/21-19:05:37.025 185d Delete type=0 #44
+2021/08/21-19:05:37.026 185d Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/21-19:05:37.026 185d Manual compaction at level-1 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 11359 : 1
+2021/08/21-19:05:37.026 185d Compacting 1@1 + 1@2 files
+2021/08/21-19:05:37.029 185d Generated table #50@1: 379 keys, 38018 bytes
+2021/08/21-19:05:37.029 185d Compacted 1@1 + 1@2 files => 38018 bytes
+2021/08/21-19:05:37.031 185d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/21-19:05:37.032 185d Delete type=2 #49
+2021/08/21-19:05:37.032 185d Manual compaction at level-1 from '\x00\x1b\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 11359 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/21-19:05:37.051 160b Level-0 table #52: started
+2021/08/21-19:05:37.053 160b Level-0 table #52: 10501 bytes OK
+2021/08/21-19:05:37.055 160b Delete type=0 #48
+2021/08/21-19:05:37.055 160b Delete type=2 #46
+2021/08/21-19:05:37.055 160b Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/21-19:05:37.055 160b Manual compaction at level-1 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 13904 : 1
+2021/08/21-19:05:37.055 160b Compacting 1@1 + 1@2 files
+2021/08/21-19:05:37.057 160b Generated table #53@1: 366 keys, 36568 bytes
+2021/08/21-19:05:37.057 160b Compacted 1@1 + 1@2 files => 36568 bytes
+2021/08/21-19:05:37.058 160b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/21-19:05:37.058 160b Delete type=2 #52
+2021/08/21-19:05:37.058 160b Manual compaction at level-1 from '\x00\x1c\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 13904 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)

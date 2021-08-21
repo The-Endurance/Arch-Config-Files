@@ -1,0 +1,154 @@
+{
+   "checksum": "d68b0ec17ea6d9432e96d30320e01b06",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13268324760310392",
+            "guid": "720d3914-4bf2-4cac-9870-03c44edf9226",
+            "id": "5",
+            "name": "Outlook",
+            "show_icon": true,
+            "source": "sync",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/inbox/id/AAQkADc0NDlhZGY4LWEzZjAtNDg4Yy1iMWE5LTJkZWM5MWEwNzg2YQAQAO7lVze17VRLgppLs89oWoc%3D"
+         }, {
+            "date_added": "13268292448039654",
+            "guid": "bbe8951b-d38f-4110-bd8c-a338bc36acec",
+            "id": "6",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://teams.microsoft.com/_#/school/conversations/General?threadId=19:1aa6096b3c5d4bf99970ea0f5624c192@thread.tacv2&ctx=channel"
+         }, {
+            "date_added": "13268293871971715",
+            "guid": "a47d529b-26a2-46cb-8b2b-17dd838dfda7",
+            "id": "7",
+            "name": "Moodle",
+            "show_icon": true,
+            "source": "sync",
+            "type": "url",
+            "url": "https://courses.iiit.ac.in/my/"
+         }, {
+            "date_added": "13268137411748477",
+            "guid": "3f8921f8-8dba-4980-930c-3e76c9c7b2a3",
+            "id": "8",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://iiitaphyd-my.sharepoint.com/personal/ananya_sane_students_iiit_ac_in/_layouts/15/onedrive.aspx"
+         }, {
+            "date_added": "13268137401382167",
+            "guid": "4febd5b8-43a0-4e2e-b47a-51e22269f802",
+            "id": "9",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13268137408400274",
+            "guid": "141fb016-eeff-49a4-acb0-62a62b860f52",
+            "id": "10",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13268137396658252",
+            "guid": "5f185e2d-8001-47e6-af99-50d338b6d550",
+            "id": "12",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codeforces.com/"
+         }, {
+            "date_added": "13273652741301224",
+            "guid": "0357be77-70fd-48f3-b408-3473ea50eefe",
+            "id": "19",
+            "name": "",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/1/#inbox"
+         }, {
+            "children": [ {
+               "date_added": "13268137414890559",
+               "guid": "becd7d4d-261a-40dd-b8fe-6af55d81f47b",
+               "id": "14",
+               "name": "Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/my-drive"
+            }, {
+               "date_added": "13268292517019546",
+               "guid": "14d05af4-870b-4d73-9d13-4d19337419e2",
+               "id": "15",
+               "name": "Calendar",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://calendar.google.com/calendar/u/0/r?pli=1"
+            } ],
+            "date_added": "13268292483915931",
+            "date_modified": "13268292517019546",
+            "guid": "954eb1d6-0e4f-4655-9677-fdade76a343d",
+            "id": "13",
+            "name": "Google",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13271338533572449",
+            "guid": "3a0a36a4-25e4-4413-8a00-b0d417b83f8c",
+            "id": "16",
+            "name": "Goodnotes",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/folders/16ZcXUM-RMLfUn6gsAmoCeDi6gYDj2qzw"
+         }, {
+            "date_added": "13271680745701231",
+            "guid": "2b2c8b9d-c6c7-428c-8f51-6d9b520530aa",
+            "id": "17",
+            "name": "Linux Command Line Manual",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://inf.ocs.ku.ac.th/Download/Wiley.Linux.Command.Line.and.Shell.Scripting.Bible.May.2008.pdf"
+         } ],
+         "date_added": "13273269830025414",
+         "date_modified": "13273652760826633",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13273269830025418",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13273269830025420",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCPrWt2h7AQAAEgAgASoYZUlzekl0LzNIM1NCbi9yS2VQSmNzUT09EqgBCAkSowEKHGFXYWZaK09oU2RrR0I4czQ3VHQ3Q3k4RXdyZz0SJDRmZWJkNWI4LTQzYTAtNGUyZS1iNDdhLTUxZTIyMjY5ZjgwMhgAIAIoAjDcgvaEtC84puidz6AvQNyC9oS0L0ocNExyell4bzNhZU82OVM0cjBEa1JNdHNVVE1vPVofIh2Wdm0ybXhxZTB2bVFoa2kzTWx0VTVoakpaaDFBPWUUHH3qEqcBCA4SogEKHExCZ0I5QktzT1o0QkRkbFh3VmlNTkpwMmpicz0SJGJlY2Q3ZDRkLTI2MWEtNDBkZC1iOGZlLTZhZjU1ZDgxZjQ3YhgAIAAoADC9gozroS8469Gez6AvQOvRns+gL0ocSGpEc2xkRW0wWm1LZ3liU2xtbnliSlU0N2ZNPVoeIhxxRURKME9XVVpLZy9UMjBnSmZOMWVNRmVCMmM9ZboKLFESqAEIDRKjAQocd1E5eWFGOTFYM0lXaFNUMXV5bjRlYVNQWWlnPRIkOTU0ZWIxZDYtMGU0Zi00NjU1LTk2NzctZmRhZGU3NmEzNDNkGAAgACgAMPm2l5mhLzjMppeZoS9AzKaXmaEvShxZV1pqZk9ESlk0UVQraUtnWm1IbFF1eUFpZVE9Wh8iHf9kVlNTanhvb0RMRExpSFphbzROU2Frem93VDQ9ZQAAAAASpwEIDxKiAQoccG04eUErNUIwb0FWNWdEdTNQdi9JQndLWmhJPRIkMTRkMDVhZjQtODcwYi00ZDczLTlkMTMtNGQxOTMzNzQxOWUyGAAgACgAMNaXt9uxLzibqZmZoS9Am6mZmaEvShxQbkZpb2JyRERKWFBVNjNCWGlCa1pYT1pNYlU9Wh4iHHY3WDJMQ2RNUTRtZFlXdVdyUTYxTjhVUHIxcz1lhrCGHhKpAQgQEqQBChxUc1VYUktVMk9ZS0M4MEZZelM3MkMzbEdNNnc9EiQzYTBhMzZhNC0yNWU0LTQ0MTMtOGEwMC1iMGQ0MTdiODNmOGMYACAEKAQwns/5x7QvOMW108WsL0Cez/nHtC9KHHpLNU90bkt1SWptRVV1emRmcTMrN3JGSjJQOD1aICIe/7IvQk9EcnljTTZuOHRYdjZCQmNWY3QxckU3azQ9ZboKLFESqQEIERKkAQocMUhLcnhDeThMWTRRTTI0MWtuTExId2FpMjhFPRIkMmIyYzhiOWQtYzZjNy00MjhjLThmNTEtNmQ5YjUyMDUzMGFhGAAgACgAMNzm6+itLzjlserorS9A5bHq6K0vShxIeFJWNG1aQm5kSmltbG5UY0ZSRXhxZHVYSjQ9WiAiHv/Zd2hVZXRVRTJqV25lZUdUOWJQdnduYmRGdGRvPWUAAAAAEqgBCAwSowEKHFFTNFlNTExpcXRzQW1LWHBLYTVVV0tLNTl6RT0SJDVmMTg1ZTJkLTgwMDEtNDdlNi1hZjk5LTUwZDMzOGI2ZDU1MBgAIAIoAjDcgvaEtC84ssOdz6AvQNyC9oS0L0ocYVNoTzdROGkvQUkyTnl3VmhUMks0RUlkVUIwPVofIh2rR2hmVEJNK1ZxQ0w2dHFmNDN4Sm9uZEY4TFFZPWUj+2FoEqcBCAUSogEKHCtiR3lVR3ArRFU5ZmExSWxaQnVEeExoK0pDTT0SJDcyMGQzOTE0LTRiZjItNGNhYy05ODcwLTAzYzQ0ZWRmOTIyNhgAIAUoBTDnw+WBtS8496XJqKEvQOey5YG1L0ocWmlFeUl0enAwNlZjR1JUZUtxZ3ZnRFFSR01rPVoeIhw2QnhSQ1NpeDRGNy9qN0hYdnZDU0xiTEdQSnc9ZfuFgJESiwEIAhKGAQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRIkZDM5YTFjM2MtMGVkMi01OTBkLWIwNTAtZmRkZjI1ODJmYmZiGAAgACgAMNbnh+O1Ljih3ofjtS5Aod6H47UuShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgIiAGUAAAAAEqgBCAYSowEKHFNmV283cXJBQmlVblJQN201VkttR1FrV1ZmND0SJGJiZTg5NTFiLWQzOGYtNDExMC1iZDhjLWEzMzhiYzM2YWNlYxgAIAQoBDDcgvaEtC84qI6VmaEvQNyC9oS0L0occnltalVpVDZVNEg1TjZQaVFpcG5PbnpSa1FBPVofIh2BNnNwSFRnbzRvNFZjdlB6czROWUx3UmdxTnlJPWWTqofZEqgBCAoSowEKHGtiVGgxeGJHcW9iYUJjc24ybnNVYW9PUDF6VT0SJDE0MWZiMDE2LWVlZmYtNDlhNC1hY2IwLTYyYTYyYjg2MGY1MhgAIAIoAjDcgvaEtC84kJ+ez6AvQNyC9oS0L0ocOEJBc2svb05rUnNNbTJPWTRLSk9LdFQvNjAwPVofIh2gWVo3bHNOU3FQM3JwZWsydTFCVTViQWVxNWtnPWUIDEouEqgBCBMSowEKHGlUSjRsWDZZZEU0OUkxWWtUbnY0U3Q4SGIzcz0SJDAzNTdiZTc3LTcwZmQtNDhmMy1iNDA4LTM0NzNlYTUwZWVmZRgAIAQoBDCbhtyeti84trmTlbUvQJuG3J62L0ocWVE3dUdSekRDbGdaQ09rNzEyMURtcHp5K21ZPVofIh3VZFRDdHFrZnd0bEo5a2NZM3B4clFEMGZVR0o0PWWLoIzREqgBCAgSowEKHGxiWWZueHhYcUszblZZeUZXVTJTWkJtRGVXWT0SJDNmODkyMWY4LThkYmEtNDk4MC05MzBjLTNlNzZjOWM3YjJhMxgAIAQoBDDcgvaEtC84pbmez6AvQNyC9oS0L0ocaGxXWHY3ZW9zTXVydWFZUVBzZjN2NHFKa0tFPVofIh2LdlMzT0w4MkxtM0RrZmphVWF4RUFYVVRNdWdZPWWbW6UnEqgBCAcSowEKHDFUeFVhR2ZaNXNjR0lKYlQ4UnNrd0ZJeFVEdz0SJGE0N2Q1MjliLTI2YTItNDZjYi04YjJiLTE3ZGQ4MzhkZmRhNxgAIAYoBjD6rd/Fti845ILsmaEvQJaa38W2L0ocNzR6bXdBVDEzN09YZ1YvcUM4UENYVDArNnd3PVofIh2GSFdWUlh4WS9vdytxcVJvVEp3RWdrNUNWNkQ4PWUhIQBbEosBCAEShgEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0SJDZmN2MzZDg4LTgxMWUtNTlkMy1iNDM2LWNhNTgzZDM0MjFiZBgAIAAoADDV54fjtS44od6H47UuQKHeh+O1LkocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoCIgBlAAAAABKLAQgDEoYBChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EiQ0MjhjYzk1MS0wOGEzLTVjZGYtYmYxNC1jNWEzNmJmZGE5Y2UYACAAKAAw2ueH47UuOKHeh+O1LkCh3ofjtS5KHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aAiIAZQAAAAAYACCG8bvGti8=",
+   "version": 1
+}

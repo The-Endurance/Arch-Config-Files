@@ -1,0 +1,21 @@
+2021/08/21-19:01:16.463 3 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/Local Storage/leveldb/MANIFEST-000001
+2021/08/21-19:01:16.464 3 Recovering log #150
+2021/08/21-19:01:16.464 3 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/Local Storage/leveldb/000150.log 
+2021/08/21-19:11:32.093 3 Level-0 table #154: started
+2021/08/21-19:11:32.097 3 Level-0 table #154: 20434 bytes OK
+2021/08/21-19:11:32.101 3 Delete type=0 #150
+2021/08/21-19:11:32.101 3 Compacting 4@0 + 1@1 files
+2021/08/21-19:11:32.117 3 Generated table #155@0: 614 keys, 1079025 bytes
+2021/08/21-19:11:32.117 3 Compacted 4@0 + 1@1 files => 1079025 bytes
+2021/08/21-19:11:32.119 3 compacted to: files[ 0 1 4 0 0 0 0 ]
+2021/08/21-19:11:32.121 3 Delete type=2 #144
+2021/08/21-19:11:32.121 3 Delete type=2 #149
+2021/08/21-19:11:32.121 3 Delete type=2 #151
+2021/08/21-19:11:32.121 3 Delete type=2 #154
+2021/08/21-19:11:32.122 3 Delete type=2 #146
+2021/08/21-19:22:04.839 e Level-0 table #157: started
+2021/08/21-19:22:04.844 e Level-0 table #157: 17340 bytes OK
+2021/08/21-19:22:04.848 e Delete type=0 #153
+2021/08/21-19:38:03.912 18 Level-0 table #159: started
+2021/08/21-19:38:03.918 18 Level-0 table #159: 103165 bytes OK
+2021/08/21-19:38:03.922 18 Delete type=0 #156

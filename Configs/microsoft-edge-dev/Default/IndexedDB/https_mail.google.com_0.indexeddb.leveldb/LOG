@@ -1,0 +1,7 @@
+2021/08/21-19:34:44.055 20aa Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/21-19:34:44.055 20aa Recovering log #3
+2021/08/21-19:34:44.057 20aa Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/08/21-19:35:18.026 2094 Level-0 table #5: started
+2021/08/21-19:35:18.036 2094 Level-0 table #5: 494327 bytes OK
+2021/08/21-19:35:18.038 2094 Delete type=0 #3
+2021/08/21-19:35:18.038 2094 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

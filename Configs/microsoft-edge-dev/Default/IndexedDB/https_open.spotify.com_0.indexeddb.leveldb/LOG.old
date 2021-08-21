@@ -1,0 +1,7 @@
+2021/08/21-18:54:21.480 dd1 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/21-18:54:21.480 dd1 Recovering log #3
+2021/08/21-18:54:21.480 dd1 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2021/08/21-18:54:57.479 1022 Level-0 table #5: started
+2021/08/21-18:54:57.482 1022 Level-0 table #5: 61931 bytes OK
+2021/08/21-18:54:57.484 1022 Delete type=0 #3
+2021/08/21-18:54:57.484 1022 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

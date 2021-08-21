@@ -1,8 +1,0 @@
-[2021-08-21 16:04:03.804] [renderer1] [error] Running the contributed command: 'teroshdl_tree_view.go_to_code' failed.: Error: Running the contributed command: 'teroshdl_tree_view.go_to_code' failed.
-	at S._executeContributedCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:120745)
-	at runMicrotasks (<anonymous>)
-	at processTicksAndRejections (internal/process/task_queues.js:93:5)
-[2021-08-21 16:05:19.127] [renderer1] [error] Running the contributed command: 'teroshdl_tree_view.go_to_code' failed.: Error: Running the contributed command: 'teroshdl_tree_view.go_to_code' failed.
-	at S._executeContributedCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:120745)
-	at runMicrotasks (<anonymous>)
-	at processTicksAndRejections (internal/process/task_queues.js:93:5)

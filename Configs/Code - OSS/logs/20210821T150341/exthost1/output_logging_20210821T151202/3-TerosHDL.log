@@ -1,4 +1,0 @@
-export  VUNIT_GHDL_PATH=;export  VUNIT_SIMULATOR=ghdl;cd /home/sane/Coding/Verilog/test;python3 mux16x1_test.vcd   --no-color -x teroshdl_out.xml --exit-0   --verbose    File "/home/sane/Coding/Verilog/test/mux16x1_test.vcd", line 1
-    $date
-    ^
-SyntaxError: invalid syntax

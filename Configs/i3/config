@@ -191,6 +191,9 @@ for_window [class=".*"] border pixel 0
 gaps inner 8
 gaps outer 5
 
+#printscreen
+bindsym $mod+p exec --no-startup-id flameshot gui
+
 
 
  

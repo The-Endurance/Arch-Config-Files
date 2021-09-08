@@ -3,4 +3,6 @@ configuration {
  theme: "Pop-Dark";
  font: "cantarell 12";
  combi-modi: "window,drun,ssh";
+ icon-theme: "Papirus-Dark";
+// show-icons: true;
  }

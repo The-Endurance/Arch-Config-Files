@@ -183,7 +183,7 @@ font:
     style: Bold Italic
 
   # Point size
-  size: 10.0
+  size: 8.5
 
   # Offset is the extra space around each character. `offset.y` can be thought of
   # as modifying the line spacing, and `offset.x` as modifying the letter spacing.
@@ -221,8 +221,8 @@ draw_bold_text_with_bright_colors: true
 colors:
   # Default colors
   primary:
-    background: '#00162e'
-    foreground: '#bdfbff'
+    background: '#170d21'
+    foreground: '#c7d0ff'
 
     # Bright and dim foreground colors
     #
@@ -246,29 +246,29 @@ colors:
   # background is unset, selection color will be the inverse of the cell colors.
   # If only text is unset the cell text color will remain the same.
   selection:
-    text: '#001447'
-    background: '0x00afc2'
+    text: '#13013d'
+    background: '0xac97db'
 
   # Normal colors
   normal:
     black:   '0x1c1f24'
-    red:     '0x00afc2'
-    green:   '0x3071db'
-    yellow:  '0x59d3ff'
+    red:     '0xb090fc'
+    green:   '0x673fe0'
+    yellow:  '0xb787fa'
     blue:    '0x006bd6'
     magenta: '0xc678dd'
-    cyan:    '0x00afc2'
-    white:   '0xa3c5fa'
+    cyan:    '0xb9afed'
+    white:   '0xaea6f7'
 
   # Bright colors
   bright:
-    black:   '0x5b6268'
+    black:   '0xa9a2ba'
     red:     '0xda8548'
-    green:   '0x4db5bb'
+    green:   '0x6358b8'
     yellow:  '0xecbe7b'
     blue:    '0x3071db'   # This is 2257a0 in Doom Emacs but I lightened it.
     magenta: '0xa9a1e1'
-    cyan:    '0x00afc2'
+    cyan:    '0x8066f2'
     white:   '0xdfdfdf'
 
   # Dim colors

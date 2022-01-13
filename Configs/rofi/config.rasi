@@ -1,8 +1,9 @@
 configuration {
  modi: "window,drun,ssh,combi";
- theme: "Pop-Dark";
- font: "cantarell 12";
+ font: "Google Sans 16";
  combi-modi: "window,drun,ssh";
  icon-theme: "Papirus-Dark";
 // show-icons: true;
  }
+
+ @theme "Pop-Dark"

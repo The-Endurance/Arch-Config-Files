@@ -1,0 +1,6 @@
+2021/12/22-12:33:01.055 1b11 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.pepperfry.com_0.indexeddb.leveldb since it was missing.
+2021/12/22-12:33:01.060 1b11 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.pepperfry.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-12:33:44.230 1ef1 Level-0 table #5: started
+2021/12/22-12:33:44.237 1ef1 Level-0 table #5: 107357 bytes OK
+2021/12/22-12:33:44.238 1ef1 Delete type=0 #3
+2021/12/22-12:33:44.239 1ef1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,28 @@
+2021/11/19-23:43:14.210 11f9a Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/19-23:43:14.210 11f9a Recovering log #11
+2021/11/19-23:43:14.210 11f9a Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb/000011.log 
+2021/11/19-23:43:21.876 124b8 Level-0 table #17: started
+2021/11/19-23:43:21.878 124b8 Level-0 table #17: 2139 bytes OK
+2021/11/19-23:43:21.879 124b8 Delete type=0 #11
+2021/11/19-23:43:21.879 124b8 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/19-23:43:36.367 122cd Level-0 table #19: started
+2021/11/19-23:43:36.370 122cd Level-0 table #19: 7275 bytes OK
+2021/11/19-23:43:36.371 122cd Delete type=0 #16
+2021/11/19-23:43:36.372 122cd Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\xc8\x0b\x00d\x00e\x00f\x00i\x00n\x00a\x00t\x00i\x00o\x00n\x00s' @ 1200 : 0
+2021/11/19-23:43:36.372 122cd Compacting 1@0 + 1@1 files
+2021/11/19-23:43:36.373 122cd Generated table #20@0: 134 keys, 3733 bytes
+2021/11/19-23:43:36.373 122cd Compacted 1@0 + 1@1 files => 3733 bytes
+2021/11/19-23:43:36.375 122cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/19-23:43:36.375 122cd Delete type=2 #19
+2021/11/19-23:43:36.375 122cd Manual compaction at level-0 from '\x00\x07\x00\x00\xc8\x0b\x00d\x00e\x00f\x00i\x00n\x00a\x00t\x00i\x00o\x00n\x00s' @ 1200 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/19-23:43:36.375 122cd Level-0 table #22: started
+2021/11/19-23:43:36.377 122cd Level-0 table #22: 698 bytes OK
+2021/11/19-23:43:36.378 122cd Delete type=2 #17
+2021/11/19-23:43:36.378 122cd Delete type=0 #18
+2021/11/19-23:43:36.379 122cd Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\xc8\x10\x00s\x00e\x00n\x00t\x00e\x00n\x00c\x00e\x00R\x00e\x00p\x00o\x00r\x00t\x00e\x00d' @ 1233 : 0
+2021/11/19-23:43:36.379 122cd Compacting 1@0 + 1@1 files
+2021/11/19-23:43:36.380 122cd Generated table #23@0: 117 keys, 3521 bytes
+2021/11/19-23:43:36.380 122cd Compacted 1@0 + 1@1 files => 3521 bytes
+2021/11/19-23:43:36.382 122cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/19-23:43:36.382 122cd Delete type=2 #22
+2021/11/19-23:43:36.382 122cd Manual compaction at level-0 from '\x00\x08\x00\x00\xc8\x10\x00s\x00e\x00n\x00t\x00e\x00n\x00c\x00e\x00R\x00e\x00p\x00o\x00r\x00t\x00e\x00d' @ 1233 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2021/09/30-13:35:52.819 a3ba Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.dunzo.com_0.indexeddb.leveldb since it was missing.
+2021/09/30-13:35:52.874 a3ba Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.dunzo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/30-13:37:32.459 a6e0 Level-0 table #5: started
+2021/09/30-13:37:32.461 a6e0 Level-0 table #5: 13402 bytes OK
+2021/09/30-13:37:32.463 a6e0 Delete type=0 #3
+2021/09/30-13:37:32.464 a6e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

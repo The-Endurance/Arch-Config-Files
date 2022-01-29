@@ -1,0 +1,6 @@
+2021/11/30-14:35:28.528 1178f Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_iiith.codetantra.com_0.indexeddb.leveldb since it was missing.
+2021/11/30-14:35:28.534 1178f Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_iiith.codetantra.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/30-17:00:15.019 1ff0b Level-0 table #5: started
+2021/11/30-17:00:15.021 1ff0b Level-0 table #5: 2989 bytes OK
+2021/11/30-17:00:15.023 1ff0b Delete type=0 #3
+2021/11/30-17:00:15.023 1ff0b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

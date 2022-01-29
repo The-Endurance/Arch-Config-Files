@@ -1,0 +1,15 @@
+2022/01/20-13:19:29.860 e209a Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.msn.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/20-13:19:29.860 e209a Recovering log #4
+2022/01/20-13:19:29.860 e209a Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.msn.com_0.indexeddb.leveldb/000004.log 
+2022/01/20-13:19:33.107 e20ff Level-0 table #8: started
+2022/01/20-13:19:33.108 e20ff Level-0 table #8: 8768 bytes OK
+2022/01/20-13:19:33.109 e20ff Delete type=0 #4
+2022/01/20-13:19:33.109 e20ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/20-13:19:33.109 e20ff Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x0d\x00e\x00n\x00-\x00i\x00n\x00|\x00w\x00e\x00a\x00t\x00h\x00e\x00r' @ 184 : 1
+2022/01/20-13:19:33.109 e20ff Compacting 1@1 + 1@2 files
+2022/01/20-13:19:33.111 e20ff Generated table #9@1: 53 keys, 4108 bytes
+2022/01/20-13:19:33.111 e20ff Compacted 1@1 + 1@2 files => 4108 bytes
+2022/01/20-13:19:33.112 e20ff compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/20-13:19:33.112 e20ff Delete type=2 #5
+2022/01/20-13:19:33.112 e20ff Delete type=2 #8
+2022/01/20-13:19:33.112 e20ff Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x0d\x00e\x00n\x00-\x00i\x00n\x00|\x00w\x00e\x00a\x00t\x00h\x00e\x00r' @ 184 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/09/17-04:54:02.032 1eb22 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.decathlon.in_0.indexeddb.leveldb since it was missing.
+2021/09/17-04:54:02.068 1eb22 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.decathlon.in_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/17-04:56:30.013 1ec01 Level-0 table #5: started
+2021/09/17-04:56:30.016 1ec01 Level-0 table #5: 56653 bytes OK
+2021/09/17-04:56:30.017 1ec01 Delete type=0 #3
+2021/09/17-04:56:30.018 1ec01 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

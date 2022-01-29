@@ -1,0 +1,6 @@
+2021/11/28-23:20:07.618 b99c6 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_psg4-word-view.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2021/11/28-23:20:07.624 b99c6 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_psg4-word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/28-23:20:23.042 b9412 Level-0 table #5: started
+2021/11/28-23:20:23.137 b9412 Level-0 table #5: 884 bytes OK
+2021/11/28-23:20:23.188 b9412 Delete type=0 #3
+2021/11/28-23:20:23.188 b9412 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

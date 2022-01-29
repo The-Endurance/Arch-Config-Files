@@ -1,0 +1,15 @@
+2022/01/28-18:29:49.215 23fbcf Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/28-18:29:49.215 23fbcf Recovering log #51
+2022/01/28-18:29:49.215 23fbcf Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000051.log 
+2022/01/28-20:07:57.641 24eb0f Level-0 table #56: started
+2022/01/28-20:07:57.643 24eb0f Level-0 table #56: 7692 bytes OK
+2022/01/28-20:07:57.644 24eb0f Delete type=0 #51
+2022/01/28-20:07:57.645 24eb0f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/28-20:07:57.645 24eb0f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 3013 : 1
+2022/01/28-20:07:57.645 24eb0f Compacting 1@1 + 1@2 files
+2022/01/28-20:07:57.647 24eb0f Generated table #57@1: 54 keys, 2777 bytes
+2022/01/28-20:07:57.647 24eb0f Compacted 1@1 + 1@2 files => 2777 bytes
+2022/01/28-20:07:57.648 24eb0f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/28-20:07:57.648 24eb0f Delete type=2 #56
+2022/01/28-20:07:57.648 24eb0f Delete type=2 #53
+2022/01/28-20:07:57.648 24eb0f Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 3013 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/11/07-11:39:24.015 64ba Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_us5.admin.mailchimp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/07-11:39:24.016 64ba Recovering log #4
+2021/11/07-11:39:24.016 64ba Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_us5.admin.mailchimp.com_0.indexeddb.leveldb/000004.log 
+2021/11/07-22:55:34.195 87b1 Level-0 table #8: started
+2021/11/07-22:55:34.197 87b1 Level-0 table #8: 7598 bytes OK
+2021/11/07-22:55:34.199 87b1 Delete type=0 #4
+2021/11/07-22:55:34.199 87b1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/07-22:55:34.199 87b1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00S\x00j\x001\x00d\x00F\x00E\x00W\x004\x00d\x009\x006\x00u\x00s\x00r\x00k\x00o\x00a\x00Q\x00n\x00y\x00Q\x00u\x00N\x00J\x00W\x00t\x00M\x007\x00M\x00-\x006\x004\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 115 : 1
+2021/11/07-22:55:34.199 87b1 Compacting 1@1 + 1@2 files
+2021/11/07-22:55:34.201 87b1 Generated table #9@1: 21 keys, 2274 bytes
+2021/11/07-22:55:34.201 87b1 Compacted 1@1 + 1@2 files => 2274 bytes
+2021/11/07-22:55:34.202 87b1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/07-22:55:34.202 87b1 Delete type=2 #5
+2021/11/07-22:55:34.202 87b1 Delete type=2 #8
+2021/11/07-22:55:34.203 87b1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00S\x00j\x001\x00d\x00F\x00E\x00W\x004\x00d\x009\x006\x00u\x00s\x00r\x00k\x00o\x00a\x00Q\x00n\x00y\x00Q\x00u\x00N\x00J\x00W\x00t\x00M\x007\x00M\x00-\x006\x004\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 115 : 1 .. (end); will stop at (end)

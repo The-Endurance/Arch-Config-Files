@@ -1,0 +1,6 @@
+2021/10/27-13:14:27.049 86c7 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/10/27-13:14:27.054 86c7 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/27-13:25:30.668 8be3 Level-0 table #5: started
+2021/10/27-13:25:30.670 8be3 Level-0 table #5: 2280 bytes OK
+2021/10/27-13:25:30.671 8be3 Delete type=0 #3
+2021/10/27-13:25:30.671 8be3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+2022/01/29-16:11:47.761 9829 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/29-16:11:47.762 9829 Recovering log #1405
+2022/01/29-16:11:47.765 9829 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001405.log 
+2022/01/29-16:13:49.958 9a00 Level-0 table #1411: started
+2022/01/29-16:13:49.970 9a00 Level-0 table #1411: 859310 bytes OK
+2022/01/29-16:13:49.973 9a00 Delete type=0 #1405
+2022/01/29-16:15:45.640 9a0b Compacting 1@1 + 1@2 files
+2022/01/29-16:15:45.693 9a0b Generated table #1412@1: 483 keys, 57818 bytes
+2022/01/29-16:15:45.693 9a0b Compacted 1@1 + 1@2 files => 57818 bytes
+2022/01/29-16:15:45.695 9a0b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/29-16:15:45.695 9a0b Delete type=2 #1408
+2022/01/29-16:15:45.695 9a0b Delete type=2 #1411

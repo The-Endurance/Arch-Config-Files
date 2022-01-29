@@ -30,7 +30,7 @@ alert = #5e6bf7
 [bar/example]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 100%
-height = 33
+height = 30
 ;offset-x = 0%
 ;offset-y = 0%
 ;radius = 6.0
@@ -46,31 +46,24 @@ line-color = #0E86D4
 border-size = 0
 border-color = #00000000
 
-padding-left = 0
+padding-left = 2
 padding-right = 2
 
 module-margin-left = 2
 module-margin-right = 2
 
-font-0 = MesloLGS NF:pixelsize=11;1
-font-1 = unifont:fontformat=truetype:size=11:antialias=false;0
-font-2 = siji:pixelsize=10;1
+font-0 = Sauce Code Pro Nerd Font:pixelsize=11;1
+font-1 = Sauce Code Pro Nerd Font:fontformat=truetype:size=11:antialias=false;0
+font-2 = Sauce Code Pro Nerd Font:pixelsize=10;1
 
-modules-left = i3
+
+modules-left = Arch i3
 modules-center = 
 modules-right = pulseaudio eth filesystem alsa xkeyboard memory cpu battery temperature date wlan
 
 tray-position = right
 tray-padding = 2
-;tray-background = #0063ff
 
-;wm-restack = bspwm
-;wm-restack = i3
-
-;override-redirect = true
-
-;scroll-up = bspwm-desknext
-;scroll-down = bspwm-deskprev
 
 scroll-up = i3wm-wsnext
 scroll-down = i3wm-wsprev
@@ -136,18 +129,20 @@ wrapping-scroll = false
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
 
-label-mode-padding = 2
+label-mode-padding = 0
 label-mode-foreground = #000
 label-mode-background = ${colors.primary}
 
 ; focused = Active workspace on focused monitor
-label-focused = %index%
+label-focused = ""
+label-focused-foreground = ${colors.primary}
 label-focused-background = ${colors.background-alt}
-label-focused-underline= ${colors.primary}
+;label-focused-underline= ${colors.primary}
 label-focused-padding = 2
 
 ; unfocused = Inactive workspace on any monitor
-label-unfocused = %index%
+label-unfocused = ""
+label-unfocused-foreground = #949be3
 label-unfocused-padding = 2
 
 ; visible = Active workspace on unfocused monitor
@@ -157,7 +152,8 @@ label-visible-underline = ${self.label-focused-underline}
 label-visible-padding = ${self.label-focused-padding}
 
 ; urgent = Workspace with urgency hint set
-label-urgent = %index%
+label-urgent = ""
+label-urgent-foreground = #01052b
 label-urgent-background = ${colors.alert}
 label-urgent-padding = 2
 
@@ -228,7 +224,7 @@ interval = 2
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #515fed
-label = %percentage_used%%
+label = %gb_used%
 
 
 
@@ -341,9 +337,20 @@ menu-2-1-exec = menu-open-0
 
 [module/sep]
 type = custom/text
-content = |
-content-foreground = ${colors.foreground-alt}
+content = "|"
+content-foreground = #949be3
 content-padding = 0
+margin-left = 0
+margin-right = 0
+
+
+[module/Arch]
+type = custom/text
+content = ""
+content-foreground = #949be3
+content-padding = 0
+content-font = font-3
+
 
 [settings]
 screenchange-reload = true
@@ -356,5 +363,6 @@ screenchange-reload = true
 [global/wm]
 margin-top = 0
 margin-bottom = 5
+
 
 ; vim:ft=dosini

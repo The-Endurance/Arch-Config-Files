@@ -1,0 +1,6 @@
+2021/08/25-11:43:48.593 78d Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2021/08/25-11:43:48.599 78d Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-11:44:20.656 8e9 Level-0 table #5: started
+2021/08/25-11:44:20.658 8e9 Level-0 table #5: 1284 bytes OK
+2021/08/25-11:44:20.660 8e9 Delete type=0 #3
+2021/08/25-11:44:20.660 8e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/01/12-09:55:32.358 12029 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_interview.google.com_0.indexeddb.leveldb since it was missing.
+2022/01/12-09:55:32.364 12029 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_interview.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/12-10:45:23.513 15e76 Level-0 table #5: started
+2022/01/12-10:45:23.515 15e76 Level-0 table #5: 5366 bytes OK
+2022/01/12-10:45:23.516 15e76 Delete type=0 #3
+2022/01/12-10:45:23.517 15e76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

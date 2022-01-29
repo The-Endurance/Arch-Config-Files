@@ -1,0 +1,6 @@
+2021/09/03-20:58:56.073 19811 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb since it was missing.
+2021/09/03-20:58:56.078 19811 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/03-20:59:40.354 19811 Level-0 table #5: started
+2021/09/03-20:59:40.356 19811 Level-0 table #5: 1583 bytes OK
+2021/09/03-20:59:40.357 19811 Delete type=0 #3
+2021/09/03-20:59:40.358 19811 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

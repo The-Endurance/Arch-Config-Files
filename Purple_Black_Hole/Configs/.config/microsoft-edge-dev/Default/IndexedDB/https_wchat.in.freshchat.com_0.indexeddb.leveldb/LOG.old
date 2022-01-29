@@ -1,0 +1,6 @@
+2022/01/24-13:16:37.918 6fd8 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_wchat.in.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/24-13:16:37.919 6fd8 Recovering log #17
+2022/01/24-13:16:37.921 6fd8 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_wchat.in.freshchat.com_0.indexeddb.leveldb/000017.log 
+2022/01/24-13:18:23.380 a559 Level-0 table #22: started
+2022/01/24-13:18:23.398 a559 Level-0 table #22: 1898716 bytes OK
+2022/01/24-13:18:23.448 a559 Delete type=0 #17

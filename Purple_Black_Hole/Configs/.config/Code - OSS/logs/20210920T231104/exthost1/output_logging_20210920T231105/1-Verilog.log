@@ -1,0 +1,87 @@
+[Info] Hover requested
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/behav.v
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q12/behav.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/behav.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Hover requested
+[Info] Hover object returned
+[Info] Hover requested
+[Warn] Hover object not found
+[Info] Hover requested
+[Warn] Hover object not found
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Completion items requested
+[Info] 4 items requested
+[Info] Completion items requested
+[Info] 4 items requested
+[Info] Completion items requested
+[Info] 4 items requested
+[Info] Completion items requested
+[Info] 4 items requested
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+[Info] Completion items requested
+[Info] 4 items requested
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/tb_struct.v
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q12/tb_struct.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/tb_struct.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/behav.v
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q12/behav.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/behav.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/tb_struct.v
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q12/tb_struct.v"
+[Info] 1 top-level symbols returned
+[Info] Hover requested
+[Warn] Hover object not found
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q12/tb_struct.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Hover requested
+[Warn] Hover object not found
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned
+> /home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/universal-ctags-linux --options=/home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/resources/bin/ctags/.ctags -f - --fields=+K --sort=no --excmd=n "/home/sane/Verilog/Assignment1/q10/tb_func.v"
+[Info] 1 top-level symbols returned
+[Info] Symbols Requested: file:///home/sane/Verilog/Assignment1/q10/tb_func.v
+[Info] 1 top-level symbols returned

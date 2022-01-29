@@ -4,6 +4,7 @@ configuration {
  combi-modi: "window,drun,ssh";
  icon-theme: "Papirus-Dark";
 // show-icons: true;
+
  }
 
- @theme "Pop-Dark"
+ @theme "/home/sane/.config/rofi/themes/Pop-Dark.rasi"

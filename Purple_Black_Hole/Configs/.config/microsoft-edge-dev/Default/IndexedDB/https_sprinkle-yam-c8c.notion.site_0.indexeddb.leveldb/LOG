@@ -1,0 +1,7 @@
+2022/01/11-19:38:37.499 925fb Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_sprinkle-yam-c8c.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/11-19:38:37.499 925fb Recovering log #3
+2022/01/11-19:38:37.500 925fb Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_sprinkle-yam-c8c.notion.site_0.indexeddb.leveldb/000003.log 
+2022/01/11-21:29:31.639 9603a Level-0 table #5: started
+2022/01/11-21:29:31.641 9603a Level-0 table #5: 2440 bytes OK
+2022/01/11-21:29:31.643 9603a Delete type=0 #3
+2022/01/11-21:29:31.643 9603a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/09/02-23:04:57.086 13471 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.sodapdf.com_0.indexeddb.leveldb since it was missing.
+2021/09/02-23:04:57.093 13471 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.sodapdf.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-23:09:50.506 13622 Level-0 table #5: started
+2021/09/02-23:09:50.507 13622 Level-0 table #5: 1953 bytes OK
+2021/09/02-23:09:50.509 13622 Delete type=0 #3
+2021/09/02-23:09:50.509 13622 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

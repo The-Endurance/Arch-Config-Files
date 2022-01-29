@@ -1,0 +1,15 @@
+2021/09/14-22:09:44.972 eddd Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_supreme-vegetarian-13f.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/14-22:09:44.973 eddd Recovering log #4
+2021/09/14-22:09:44.973 eddd Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_supreme-vegetarian-13f.notion.site_0.indexeddb.leveldb/000004.log 
+2021/09/14-22:18:37.331 f007 Level-0 table #8: started
+2021/09/14-22:18:37.333 f007 Level-0 table #8: 209 bytes OK
+2021/09/14-22:18:37.335 f007 Delete type=0 #4
+2021/09/14-22:18:37.335 f007 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/09/14-22:18:37.335 f007 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 182 : 1
+2021/09/14-22:18:37.335 f007 Compacting 1@1 + 1@2 files
+2021/09/14-22:18:37.336 f007 Generated table #9@1: 56 keys, 1075 bytes
+2021/09/14-22:18:37.336 f007 Compacted 1@1 + 1@2 files => 1075 bytes
+2021/09/14-22:18:37.338 f007 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/14-22:18:37.338 f007 Delete type=2 #5
+2021/09/14-22:18:37.338 f007 Delete type=2 #8
+2021/09/14-22:18:37.338 f007 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 182 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/09/25-14:50:36.216 34e79 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2021/09/25-14:50:36.221 34e79 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/25-14:53:23.102 34fde Level-0 table #5: started
+2021/09/25-14:53:23.105 34fde Level-0 table #5: 11130 bytes OK
+2021/09/25-14:53:23.106 34fde Delete type=0 #3
+2021/09/25-14:53:23.107 34fde Manual compaction at level-0 from (begin) .. (end); will stop at (end)

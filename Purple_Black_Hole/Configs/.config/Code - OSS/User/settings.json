@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    "scm.inputFontFamily": "MesloLGS NF",
+    "editor.fontFamily": "'MesloLGS NF'",
+    "editor.fontSize": 12,
+    "debug.console.fontSize": 15,
+    "terminal.integrated.fontSize": 12,
+    "markdown.preview.fontSize": 15,
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.autoClosingBrackets": "always",
+    "editor.tabCompletion": "on",
+    "security.workspace.trust.untrustedFiles": "open"
+}

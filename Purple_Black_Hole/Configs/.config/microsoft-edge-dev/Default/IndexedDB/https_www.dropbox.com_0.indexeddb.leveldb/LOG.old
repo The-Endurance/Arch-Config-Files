@@ -1,0 +1,6 @@
+2022/01/19-13:56:46.447 9b45e Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
+2022/01/19-13:56:46.454 9b45e Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/19-13:57:41.099 9b9da Level-0 table #5: started
+2022/01/19-13:57:41.104 9b9da Level-0 table #5: 178736 bytes OK
+2022/01/19-13:57:41.105 9b9da Delete type=0 #3
+2022/01/19-13:57:41.105 9bb95 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

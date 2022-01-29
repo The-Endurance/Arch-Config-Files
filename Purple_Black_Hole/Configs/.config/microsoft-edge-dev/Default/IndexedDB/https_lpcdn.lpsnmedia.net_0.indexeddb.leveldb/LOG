@@ -1,0 +1,15 @@
+2021/10/18-12:41:53.679 6d5 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/18-12:41:53.679 6d5 Recovering log #11
+2021/10/18-12:41:53.680 6d5 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000011.log 
+2021/10/18-13:01:57.874 aab Level-0 table #16: started
+2021/10/18-13:01:57.876 aab Level-0 table #16: 1334 bytes OK
+2021/10/18-13:01:57.878 aab Delete type=0 #11
+2021/10/18-13:01:57.878 aab Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/18-13:01:57.878 aab Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x002\x003\x001\x005\x006\x009\x001\x004' @ 707 : 1
+2021/10/18-13:01:57.878 aab Compacting 1@1 + 1@2 files
+2021/10/18-13:01:57.880 aab Generated table #17@1: 35 keys, 1358 bytes
+2021/10/18-13:01:57.880 aab Compacted 1@1 + 1@2 files => 1358 bytes
+2021/10/18-13:01:57.881 aab compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/18-13:01:57.882 aab Delete type=2 #16
+2021/10/18-13:01:57.882 aab Delete type=2 #13
+2021/10/18-13:01:57.882 aab Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x002\x003\x001\x005\x006\x009\x001\x004' @ 707 : 1 .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2021/09/18-17:22:18.323 1065 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_business.bing.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/18-17:22:18.324 1065 Recovering log #3
+2021/09/18-17:22:18.325 1065 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_business.bing.com_0.indexeddb.leveldb/000003.log 
+2021/09/18-17:23:21.790 10cd Level-0 table #5: started
+2021/09/18-17:23:21.794 10cd Level-0 table #5: 96282 bytes OK
+2021/09/18-17:23:21.796 10cd Delete type=0 #3
+2021/09/18-17:23:21.797 10cd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

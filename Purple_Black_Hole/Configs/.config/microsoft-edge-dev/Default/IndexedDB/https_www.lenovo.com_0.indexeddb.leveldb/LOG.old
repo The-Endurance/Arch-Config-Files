@@ -1,0 +1,15 @@
+2021/10/29-10:38:03.516 369f6 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/29-10:38:03.517 369f6 Recovering log #4
+2021/10/29-10:38:03.517 369f6 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/000004.log 
+2021/10/29-10:38:47.032 36844 Level-0 table #8: started
+2021/10/29-10:38:47.034 36844 Level-0 table #8: 1181 bytes OK
+2021/10/29-10:38:47.038 36844 Delete type=0 #4
+2021/10/29-10:38:47.039 36844 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/29-10:38:47.039 36844 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 63 : 1
+2021/10/29-10:38:47.039 36844 Compacting 1@1 + 1@2 files
+2021/10/29-10:38:47.041 36844 Generated table #9@1: 21 keys, 1186 bytes
+2021/10/29-10:38:47.041 36844 Compacted 1@1 + 1@2 files => 1186 bytes
+2021/10/29-10:38:47.042 36844 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/29-10:38:47.043 36844 Delete type=2 #5
+2021/10/29-10:38:47.043 36844 Delete type=2 #8
+2021/10/29-10:38:47.043 36844 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 63 : 1 .. (end); will stop at (end)

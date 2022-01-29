@@ -1,0 +1,15 @@
+2022/01/18-23:35:19.313 89860 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/18-23:35:19.313 89860 Recovering log #27
+2022/01/18-23:35:19.313 89860 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/000027.log 
+2022/01/18-23:42:57.824 89edf Level-0 table #32: started
+2022/01/18-23:42:57.826 89edf Level-0 table #32: 4800 bytes OK
+2022/01/18-23:42:57.827 89edf Delete type=0 #27
+2022/01/18-23:42:57.827 89edf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/18-23:42:57.828 89edf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x02\x00p\x00Q' @ 4692 : 1
+2022/01/18-23:42:57.828 89edf Compacting 1@1 + 1@2 files
+2022/01/18-23:42:57.829 89edf Generated table #33@1: 21 keys, 565 bytes
+2022/01/18-23:42:57.829 89edf Compacted 1@1 + 1@2 files => 565 bytes
+2022/01/18-23:42:57.830 89edf compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/18-23:42:57.830 89edf Delete type=2 #29
+2022/01/18-23:42:57.830 89edf Delete type=2 #32
+2022/01/18-23:42:57.830 89edf Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x02\x00p\x00Q' @ 4692 : 1 .. (end); will stop at (end)

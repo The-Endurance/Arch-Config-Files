@@ -1,0 +1,48 @@
+[2021-09-14 22:48:41.763] [exthost] [info] extension host started
+[2021-09-14 22:48:41.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-14 22:48:41.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-09-14 22:48:41.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 22:48:41.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-09-14 22:48:41.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 22:48:41.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-09-14 22:48:41.882] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-14 22:48:41.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-14 22:48:41.960] [exthost] [info] eager extensions activated
+[2021-09-14 22:48:41.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-14 22:48:41.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-14 22:48:41.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-14 22:48:41.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-14 22:48:41.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-14 22:48:41.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-14 22:48:49.757] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-14 22:48:50.764] [exthost] [info] exiting with code 0
+[2021-09-14 22:48:50.830] [exthost] [info] extension host started
+[2021-09-14 22:48:50.839] [exthost] [info] Lock '/home/sane/.config/Code - OSS/User/workspaceStorage/e9c6304ad86b2b5877f4afd5643093bd/vscode.lock': Lock acquired.
+[2021-09-14 22:48:50.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-14 22:48:50.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-09-14 22:48:50.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 22:48:50.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-09-14 22:48:50.871] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-09-14 22:48:50.871] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sane/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension
+[2021-09-14 22:48:50.941] [exthost] [info] ExtensionService#_doActivateExtension teros-technology.teroshdl {"startup":true,"extensionId":{"value":"teros-technology.teroshdl","_lower":"teros-technology.teroshdl"},"activationEvent":"*"}
+[2021-09-14 22:48:50.941] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sane/.vscode-oss/extensions/teros-technology.teroshdl-0.1.91/out/extension.js
+[2021-09-14 22:48:51.185] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-14 22:48:51.185] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-14 22:48:51.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-14 22:48:51.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-09-14 22:48:51.310] [exthost] [info] eager extensions activated
+[2021-09-14 22:48:51.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-14 22:48:51.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-14 22:48:51.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-14 22:48:51.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-14 22:48:51.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-14 22:48:51.409] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-14 22:50:23.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-14 22:50:23.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-14 22:50:23.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-14 22:50:23.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-14 22:50:23.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-14 22:50:23.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-09-14 23:38:42.918] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-14 23:38:42.919] [exthost] [info] Lock '/home/sane/.config/Code - OSS/User/workspaceStorage/e9c6304ad86b2b5877f4afd5643093bd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-14 23:38:43.933] [exthost] [info] exiting with code 0

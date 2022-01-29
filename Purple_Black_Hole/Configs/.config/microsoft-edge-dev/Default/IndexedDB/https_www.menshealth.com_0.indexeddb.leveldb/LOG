@@ -1,0 +1,6 @@
+2021/09/20-14:20:09.090 f399 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.menshealth.com_0.indexeddb.leveldb since it was missing.
+2021/09/20-14:20:09.094 f399 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.menshealth.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/20-14:21:13.178 ee02 Level-0 table #5: started
+2021/09/20-14:21:13.180 ee02 Level-0 table #5: 2788 bytes OK
+2021/09/20-14:21:13.182 ee02 Delete type=0 #3
+2021/09/20-14:21:13.182 ee02 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

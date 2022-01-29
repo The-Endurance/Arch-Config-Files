@@ -1,0 +1,17 @@
+2022/01/29-11:54:18.956 4d1c Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/29-11:54:18.956 4d1c Recovering log #414
+2022/01/29-11:54:18.986 4d1c Level-0 table #419: started
+2022/01/29-11:54:19.054 4d1c Level-0 table #419: 1435688 bytes OK
+2022/01/29-11:54:19.054 4d1c Recovering log #419
+2022/01/29-11:54:19.060 4d1c Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000419.log 
+2022/01/29-11:54:19.061 4d1c Delete type=0 #414
+2022/01/29-11:54:19.061 4d1c Delete type=2 #420
+2022/01/29-11:54:19.646 4ce2 Moved #419 to level-1 1435688 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2022/01/29-11:54:30.586 4ecf Compacting 1@1 + 2@2 files
+2022/01/29-11:54:30.640 4ecf Generated table #420@1: 20372 keys, 2779228 bytes
+2022/01/29-11:54:30.660 4ecf Generated table #421@1: 2176 keys, 1556556 bytes
+2022/01/29-11:54:30.660 4ecf Compacted 1@1 + 2@2 files => 4335784 bytes
+2022/01/29-11:54:30.661 4ecf compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/01/29-11:54:30.662 4ecf Delete type=2 #419
+2022/01/29-11:54:30.662 4ecf Delete type=2 #416
+2022/01/29-11:54:30.662 4ecf Delete type=2 #417

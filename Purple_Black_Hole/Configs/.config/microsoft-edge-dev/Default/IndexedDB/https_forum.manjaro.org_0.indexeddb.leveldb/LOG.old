@@ -1,0 +1,6 @@
+2021/09/27-03:26:17.070 81c5 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
+2021/09/27-03:26:17.077 81c5 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/27-03:26:52.035 7ff7 Level-0 table #5: started
+2021/09/27-03:26:52.038 7ff7 Level-0 table #5: 59675 bytes OK
+2021/09/27-03:26:52.040 7ff7 Delete type=0 #3
+2021/09/27-03:26:52.040 7ff7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

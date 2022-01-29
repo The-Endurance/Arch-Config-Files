@@ -1,0 +1,12 @@
+[2021-09-13 18:23:22.099] [renderer1] [error] Unable to install 'ms-toolsai.jupyter' extension because it is not compatible with the current version of VS Code (version 1.58.0).: incompatible: Unable to install 'ms-toolsai.jupyter' extension because it is not compatible with the current version of VS Code (version 1.58.0).
+    at x.checkAndGetCompatibleVersion (file:///usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:54:199615)
+    at async X (file:///usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:54:198978)
+    at async x.getAllDepsAndPackExtensionsToInstall (file:///usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:54:199268)
+    at async x.runInstallGalleryExtensionTask (file:///usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:54:195919)
+    at async x.installFromGallery (file:///usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:54:194095)
+[2021-09-13 18:29:03.763] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-09-13 18:29:03.764] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-09-13 18:29:03.764] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-09-13 18:29:52.956] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-09-13 18:29:52.956] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-09-13 18:29:52.956] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'

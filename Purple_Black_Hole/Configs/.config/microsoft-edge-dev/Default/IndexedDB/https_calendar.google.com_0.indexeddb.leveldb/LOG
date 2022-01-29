@@ -1,0 +1,15 @@
+2022/01/27-16:32:07.917 1a1483 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/27-16:32:07.917 1a1483 Recovering log #7
+2022/01/27-16:32:07.917 1a1483 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000007.log 
+2022/01/27-16:32:11.405 1a143f Level-0 table #12: started
+2022/01/27-16:32:11.406 1a143f Level-0 table #12: 209 bytes OK
+2022/01/27-16:32:11.407 1a143f Delete type=0 #7
+2022/01/27-16:32:11.407 1a143f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/27-16:32:11.407 1a143f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 49 : 1
+2022/01/27-16:32:11.407 1a143f Compacting 1@1 + 1@2 files
+2022/01/27-16:32:11.408 1a143f Generated table #13@1: 19 keys, 521 bytes
+2022/01/27-16:32:11.408 1a143f Compacted 1@1 + 1@2 files => 521 bytes
+2022/01/27-16:32:11.409 1a143f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/27-16:32:11.409 1a143f Delete type=2 #9
+2022/01/27-16:32:11.409 1a143f Delete type=2 #12
+2022/01/27-16:32:11.410 1a143f Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 49 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2022/01/18-14:51:45.885 510cd Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/18-14:51:45.887 510cd Recovering log #15
+2022/01/18-14:51:45.887 510cd Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/000015.log 
+2022/01/18-14:51:48.201 52c32 Level-0 table #20: started
+2022/01/18-14:51:48.202 52c32 Level-0 table #20: 503 bytes OK
+2022/01/18-14:51:48.204 52c32 Delete type=0 #15
+2022/01/18-14:51:48.204 52c32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/18-14:51:48.204 4e5b1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0b\x007\x000\x00a\x007\x00c\x002\x008\x00f\x003\x00d\x00e' @ 190 : 1
+2022/01/18-14:51:48.204 4e5b1 Compacting 1@1 + 1@2 files
+2022/01/18-14:51:48.205 4e5b1 Generated table #21@1: 21 keys, 630 bytes
+2022/01/18-14:51:48.205 4e5b1 Compacted 1@1 + 1@2 files => 630 bytes
+2022/01/18-14:51:48.206 4e5b1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/18-14:51:48.207 4e5b1 Delete type=2 #17
+2022/01/18-14:51:48.207 4e5b1 Delete type=2 #20
+2022/01/18-14:51:48.207 4e5b1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0b\x007\x000\x00a\x007\x00c\x002\x008\x00f\x003\x00d\x00e' @ 190 : 1 .. (end); will stop at (end)

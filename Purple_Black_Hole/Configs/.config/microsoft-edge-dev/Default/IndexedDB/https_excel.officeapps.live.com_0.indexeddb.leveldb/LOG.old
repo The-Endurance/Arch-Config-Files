@@ -1,0 +1,15 @@
+2022/01/08-17:20:00.717 24367 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_excel.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/08-17:20:00.717 24367 Recovering log #7
+2022/01/08-17:20:00.717 24367 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_excel.officeapps.live.com_0.indexeddb.leveldb/000007.log 
+2022/01/08-19:06:40.664 24977 Level-0 table #12: started
+2022/01/08-19:06:40.666 24977 Level-0 table #12: 3280 bytes OK
+2022/01/08-19:06:40.668 24977 Delete type=0 #7
+2022/01/08-19:06:40.668 24977 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/08-19:06:40.668 24977 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x00\x00\xc8\x0e\x00h\x00e\x00a\x00l\x00t\x00h\x00E\x00v\x00e\x00n\x00t\x00s\x00V\x002' @ 246 : 1
+2022/01/08-19:06:40.668 24977 Compacting 1@1 + 1@2 files
+2022/01/08-19:06:40.670 24977 Generated table #13@1: 79 keys, 1963 bytes
+2022/01/08-19:06:40.670 24977 Compacted 1@1 + 1@2 files => 1963 bytes
+2022/01/08-19:06:40.672 24977 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/08-19:06:40.672 24977 Delete type=2 #9
+2022/01/08-19:06:40.672 24977 Delete type=2 #12
+2022/01/08-19:06:40.672 24977 Manual compaction at level-1 from '\x00\x05\x00\x00\xc8\x0e\x00h\x00e\x00a\x00l\x00t\x00h\x00E\x00v\x00e\x00n\x00t\x00s\x00V\x002' @ 246 : 1 .. (end); will stop at (end)

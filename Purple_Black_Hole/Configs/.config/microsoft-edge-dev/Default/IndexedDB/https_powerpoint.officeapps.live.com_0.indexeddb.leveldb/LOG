@@ -1,0 +1,7 @@
+2021/09/26-14:44:05.022 175f Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_powerpoint.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/26-14:44:05.023 175f Recovering log #3
+2021/09/26-14:44:05.069 175f Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_powerpoint.officeapps.live.com_0.indexeddb.leveldb/000003.log 
+2021/09/26-14:52:12.676 1826 Level-0 table #5: started
+2021/09/26-14:52:12.677 1826 Level-0 table #5: 1328 bytes OK
+2021/09/26-14:52:12.679 1826 Delete type=0 #3
+2021/09/26-14:52:12.679 1826 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,29 @@
+2022/01/21-11:31:42.200 1550a8 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/21-11:31:42.200 1550a8 Recovering log #350
+2022/01/21-11:31:42.218 1550a8 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000350.log 
+2022/01/21-11:34:29.937 157cc4 Level-0 table #362: started
+2022/01/21-11:34:29.947 157cc4 Level-0 table #362: 1029631 bytes OK
+2022/01/21-11:34:29.951 157cc4 Delete type=0 #350
+2022/01/21-11:34:29.951 157cc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/21-11:34:29.952 1550a8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x1f\x04\x05\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x90^\xc3\xe5wB\x03\x00`/b/\xe6wB\x00\x01,\x00A\x00F\x001\x00Q\x00i\x00p\x00N\x002\x00m\x00R\x00s\x00t\x00U\x00G\x00O\x00E\x00D\x00u\x00_\x00N\x00v\x003\x00n\x00c\x00d\x002\x00T\x00z\x00I\x00L\x00_\x00o\x00s\x00t\x00D\x00V\x00a\x00Y\x00i\x00X\x00q\x00X\x00Z\x001' @ 976483 : 1
+2022/01/21-11:34:29.952 1550a8 Compacting 1@1 + 8@2 files
+2022/01/21-11:34:29.997 1550a8 Generated table #363@1: 1871 keys, 2131488 bytes
+2022/01/21-11:34:30.023 1550a8 Generated table #364@1: 10530 keys, 2140255 bytes
+2022/01/21-11:34:30.038 1550a8 Generated table #365@1: 7391 keys, 2151827 bytes
+2022/01/21-11:34:30.050 1550a8 Generated table #366@1: 2753 keys, 2143385 bytes
+2022/01/21-11:34:30.062 1550a8 Generated table #367@1: 2746 keys, 2140471 bytes
+2022/01/21-11:34:30.169 1550a8 Generated table #368@1: 2754 keys, 2144193 bytes
+2022/01/21-11:34:30.193 1550a8 Generated table #369@1: 12699 keys, 2155524 bytes
+2022/01/21-11:34:30.208 1550a8 Generated table #370@1: 13362 keys, 1426616 bytes
+2022/01/21-11:34:30.208 1550a8 Compacted 1@1 + 8@2 files => 16433759 bytes
+2022/01/21-11:34:30.256 1550a8 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #354
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #362
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #356
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #353
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #357
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #355
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #352
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #358
+2022/01/21-11:34:30.256 1550a8 Delete type=2 #359
+2022/01/21-11:34:30.260 1550a8 Manual compaction at level-1 from '\x00\x04\x02\x1f\x04\x05\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x90^\xc3\xe5wB\x03\x00`/b/\xe6wB\x00\x01,\x00A\x00F\x001\x00Q\x00i\x00p\x00N\x002\x00m\x00R\x00s\x00t\x00U\x00G\x00O\x00E\x00D\x00u\x00_\x00N\x00v\x003\x00n\x00c\x00d\x002\x00T\x00z\x00I\x00L\x00_\x00o\x00s\x00t\x00D\x00V\x00a\x00Y\x00i\x00X\x00q\x00X\x00Z\x001' @ 976483 : 1 .. (end); will stop at (end)

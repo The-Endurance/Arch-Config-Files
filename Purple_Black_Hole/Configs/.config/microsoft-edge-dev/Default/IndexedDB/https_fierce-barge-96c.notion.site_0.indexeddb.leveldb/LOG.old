@@ -1,0 +1,18 @@
+2021/11/21-23:23:29.088 2c2e Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_fierce-barge-96c.notion.site_0.indexeddb.leveldb since it was missing.
+2021/11/21-23:23:29.091 2c2e Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_fierce-barge-96c.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/21-23:24:22.940 289f Level-0 table #5: started
+2021/11/21-23:24:22.942 289f Level-0 table #5: 3035 bytes OK
+2021/11/21-23:24:22.944 289f Delete type=0 #3
+2021/11/21-23:24:22.945 289f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/21-23:24:24.946 2c68 Level-0 table #7: started
+2021/11/21-23:24:24.948 2c68 Level-0 table #7: 256 bytes OK
+2021/11/21-23:24:24.949 2c68 Delete type=0 #4
+2021/11/21-23:24:24.950 2c68 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/21-23:24:24.950 2c68 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02P\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 238 : 0
+2021/11/21-23:24:24.950 2c68 Compacting 1@1 + 1@2 files
+2021/11/21-23:24:24.952 2c68 Generated table #8@1: 6 keys, 253 bytes
+2021/11/21-23:24:24.952 2c68 Compacted 1@1 + 1@2 files => 253 bytes
+2021/11/21-23:24:24.953 2c68 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/21-23:24:24.954 2c68 Delete type=2 #5
+2021/11/21-23:24:24.954 2c68 Delete type=2 #7
+2021/11/21-23:24:24.954 2c68 Manual compaction at level-1 from '\x00\x00\x00\x002\x02P\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 238 : 0 .. (end); will stop at (end)

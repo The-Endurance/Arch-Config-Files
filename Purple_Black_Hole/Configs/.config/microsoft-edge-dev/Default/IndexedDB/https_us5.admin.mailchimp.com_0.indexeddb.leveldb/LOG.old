@@ -1,0 +1,6 @@
+2021/08/23-20:17:36.282 514c Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_us5.admin.mailchimp.com_0.indexeddb.leveldb since it was missing.
+2021/08/23-20:17:36.286 514c Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_us5.admin.mailchimp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/23-22:02:02.316 5d88 Level-0 table #5: started
+2021/08/23-22:02:02.318 5d88 Level-0 table #5: 5875 bytes OK
+2021/08/23-22:02:02.320 5d88 Delete type=0 #3
+2021/08/23-22:02:02.320 5d88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

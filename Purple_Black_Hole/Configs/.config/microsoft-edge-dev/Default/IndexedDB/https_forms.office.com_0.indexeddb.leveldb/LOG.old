@@ -1,0 +1,15 @@
+2021/12/23-11:36:10.314 20f8 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_forms.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/23-11:36:10.315 20f8 Recovering log #4
+2021/12/23-11:36:10.315 20f8 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_forms.office.com_0.indexeddb.leveldb/000004.log 
+2021/12/23-11:36:14.680 2d39 Level-0 table #8: started
+2021/12/23-11:36:14.683 2d39 Level-0 table #8: 19334 bytes OK
+2021/12/23-11:36:14.684 2d39 Delete type=0 #4
+2021/12/23-11:36:14.685 20f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/23-11:36:14.685 20f8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x000\xf1Y^\xdewB\x00\x01m\x00S\x00t\x00a\x00t\x00i\x00c\x00R\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00d\x00n\x00.\x00f\x00o\x00r\x00m\x00s\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00n\x00e\x00t\x00/\x00f\x00o\x00r\x00m\x00s\x00/\x00s\x00c\x00r\x00i\x00p\x00t\x00s\x00/\x00d\x00i\x00s\x00t\x00s\x00/\x00l\x00i\x00g\x00h\x00t\x00-\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e\x00-\x00p\x00a\x00g\x00e\x00.\x00c\x00h\x00u\x00n\x00k\x00.\x00l\x00r\x00p\x00_\x00e\x00x\x00t\x00.\x002\x003\x001\x008\x000\x002\x007\x005\x00.\x00j\x00s' @ 772 : 1
+2021/12/23-11:36:14.685 20f8 Compacting 1@1 + 1@2 files
+2021/12/23-11:36:14.687 20f8 Generated table #9@1: 111 keys, 9467 bytes
+2021/12/23-11:36:14.687 20f8 Compacted 1@1 + 1@2 files => 9467 bytes
+2021/12/23-11:36:14.689 20f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/23-11:36:14.689 20f8 Delete type=2 #5
+2021/12/23-11:36:14.689 20f8 Delete type=2 #8
+2021/12/23-11:36:14.689 20f8 Manual compaction at level-1 from '\x00\x01\x01 \x03\x000\xf1Y^\xdewB\x00\x01m\x00S\x00t\x00a\x00t\x00i\x00c\x00R\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00d\x00n\x00.\x00f\x00o\x00r\x00m\x00s\x00.\x00o\x00f\x00f\x00i\x00c\x00e\x00.\x00n\x00e\x00t\x00/\x00f\x00o\x00r\x00m\x00s\x00/\x00s\x00c\x00r\x00i\x00p\x00t\x00s\x00/\x00d\x00i\x00s\x00t\x00s\x00/\x00l\x00i\x00g\x00h\x00t\x00-\x00r\x00e\x00s\x00p\x00o\x00n\x00s\x00e\x00-\x00p\x00a\x00g\x00e\x00.\x00c\x00h\x00u\x00n\x00k\x00.\x00l\x00r\x00p\x00_\x00e\x00x\x00t\x00.\x002\x003\x001\x008\x000\x002\x007\x005\x00.\x00j\x00s' @ 772 : 1 .. (end); will stop at (end)

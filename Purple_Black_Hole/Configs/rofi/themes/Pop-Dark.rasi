@@ -2,15 +2,15 @@
  * Author: Primetoxinz
  */
 * {
-    text-color:                  #ffffff;
+    text-color:                  #bfb3e8;
     background-color:            transparent;
     lightbg:                     transparent;
     red:                         #f15d22;
     orange:                      #faa41a; 
-    blue:                        rgba(94, 107, 247,100 %); 
+    blue:                        rgba(25, 2, 71 ,100 %); 
 
 
-    background: rgba( 4, 17, 36, 60 % );
+    background: rgba( 4, 17, 36, 75 % );
     selected-normal-foreground:  @foreground;
     normal-foreground:           @foreground;
     alternate-normal-background: @background;
@@ -37,13 +37,15 @@ window {
     border:     0;
     text-color: @foreground;
     //background-color: rgba ( 0, 0, 0, 0 % );
-    padding:    0% 0%;
+    //          top x bottom left
+    //padding:    25% 30% 25% 17%;
     text-color: @bordercolor;
     background-color: @background;
+    fullscreen: true;
 }
 mainbox {
     //border:  0;
-    //padding: 0;
+    padding: 27% 17%;
 }
 message {
     border:     0px dash 0px 0px ;
@@ -51,17 +53,17 @@ message {
     padding:    0px 0px 0px ;
 }
 textbox {
-    text-color: @foreground;
+    text-color: #8c6af7;
 }
 listview {
     fixed-height: 0;
     border:       0px 0px 0px ;
-    padding:      0px 0px 0px ;
+    padding:      10px 0px 10px ;
     text-color: @separatorcolor;
 }
 element {
     border: 0;
-    padding: 2px 5px 2px;
+    padding: 0px 0px 10px;
     background-color: transparent;
 }
 element-text {
@@ -81,8 +83,8 @@ element.normal.active {
     //background-color: @active-background;
 }
 element.selected.normal {
-    text-color: @selected-normal-foreground;
-    background-color: @selected-normal-background;
+    text-color: #9468e3;
+    //background-color: @selected-normal-background;
 }
 element.selected.urgent {
     text-color: @selected-urgent-foreground;
@@ -115,10 +117,11 @@ inputbar {
     spacing: 0;
     border: 0px ;
     background-color: transparent;
-    padding: 2px 5px 2px;
+    padding: 5px 0px 2px;
+    text-color: #8c6af7;
 }
 button normal {
-    text-color: @foreground;
+    text-color: #8c6af7;
 }
 
 inputbar {
@@ -129,5 +132,11 @@ textbox-prompt-colon {
     str:        ":";
     margin:     0px 0.3em 0em 0em ;
     //text-color: @normal-foreground;
-    text-color: #27a5b0;
+    text-color: #8142f5;
+}
+prompt {
+    text-color: #8142f5;
+}
+entry {
+    text-color: #8142f5;
 }

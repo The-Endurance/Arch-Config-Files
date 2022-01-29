@@ -1,0 +1,6 @@
+2021/08/22-15:55:32.550 103a Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.maxongzb.com_0.indexeddb.leveldb since it was missing.
+2021/08/22-15:55:32.556 103a Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.maxongzb.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/22-15:56:07.603 103a Level-0 table #5: started
+2021/08/22-15:56:07.605 103a Level-0 table #5: 5948 bytes OK
+2021/08/22-15:56:07.606 103a Delete type=0 #3
+2021/08/22-15:56:07.607 103a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/09/27-20:22:00.328 d264 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.esphome-devices.com_0.indexeddb.leveldb since it was missing.
+2021/09/27-20:22:00.336 d264 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.esphome-devices.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/27-20:22:32.452 d264 Level-0 table #5: started
+2021/09/27-20:22:32.454 d264 Level-0 table #5: 4428 bytes OK
+2021/09/27-20:22:32.455 d264 Delete type=0 #3
+2021/09/27-20:22:32.455 d264 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

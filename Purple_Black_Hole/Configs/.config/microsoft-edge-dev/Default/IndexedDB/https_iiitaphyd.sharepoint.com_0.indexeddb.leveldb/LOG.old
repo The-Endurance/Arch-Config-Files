@@ -1,0 +1,24 @@
+2022/01/27-09:04:17.393 13e4ea Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_iiitaphyd.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/27-09:04:17.393 13e4ea Recovering log #35
+2022/01/27-09:04:17.462 13e4ea Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_iiitaphyd.sharepoint.com_0.indexeddb.leveldb/000035.log 
+2022/01/27-09:04:36.808 13e4ea Level-0 table #40: started
+2022/01/27-09:04:36.835 13e4ea Level-0 table #40: 1468136 bytes OK
+2022/01/27-09:04:36.837 13e4ea Delete type=0 #35
+2022/01/27-09:04:40.889 171fc4 Compacting 1@1 + 1@2 files
+2022/01/27-09:04:40.930 171fc4 Generated table #41@1: 8489 keys, 1119607 bytes
+2022/01/27-09:04:40.930 171fc4 Compacted 1@1 + 1@2 files => 1119607 bytes
+2022/01/27-09:04:40.931 171fc4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/27-09:04:40.932 171fc4 Delete type=2 #40
+2022/01/27-09:04:40.932 171fc4 Delete type=2 #37
+2022/01/27-09:56:57.585 177452 Level-0 table #43: started
+2022/01/27-09:56:57.598 177452 Level-0 table #43: 260324 bytes OK
+2022/01/27-09:56:57.600 177452 Delete type=0 #39
+2022/01/27-09:56:57.600 177452 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/27-09:56:57.600 177452 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x04\x1f\x01\x07\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x00\x01\x07\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 73446 : 1
+2022/01/27-09:56:57.600 177452 Compacting 1@1 + 1@2 files
+2022/01/27-09:56:57.634 177452 Generated table #44@1: 7944 keys, 878850 bytes
+2022/01/27-09:56:57.634 177452 Compacted 1@1 + 1@2 files => 878850 bytes
+2022/01/27-09:56:57.635 177452 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/27-09:56:57.635 177452 Delete type=2 #43
+2022/01/27-09:56:57.635 177452 Delete type=2 #41
+2022/01/27-09:56:57.635 177452 Manual compaction at level-1 from '\x00\x04\x04\x1f\x01\x07\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x00\x01\x07\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 73446 : 1 .. (end); will stop at (end)

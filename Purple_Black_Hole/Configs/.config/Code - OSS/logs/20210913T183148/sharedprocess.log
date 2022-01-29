@@ -1,0 +1,14 @@
+[2021-09-13 18:31:53.296] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-13 18:32:00.344] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-13 18:32:00.346] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210908T151632'
+[2021-09-13 18:32:20.343] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-13 18:32:20.344] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-13 18:32:20.347] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1631371864275.
+[2021-09-13 18:32:30.344] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-13 19:11:23.691] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-09-13 19:11:24.796] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /home/sane/.config/Code - OSS/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.1.4
+[2021-09-13 19:11:24.955] [sharedprocess] [info] Extracted extension to /home/sane/.vscode-oss/extensions/.5930e5b4-6a5d-4416-b80d-28cba5c52cad: coenraads.bracket-pair-colorizer-2
+[2021-09-13 19:11:24.958] [sharedprocess] [info] Renamed to /home/sane/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4
+[2021-09-13 19:11:24.960] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2021-09-13 19:11:24.963] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2
+[2021-09-13 19:11:26.325] [sharedprocess] [info] Extensions is already requested to install ms-python.python

@@ -1,0 +1,6 @@
+[2021-09-21 23:12:07.687] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-21 23:12:07.688] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210910T200948'
+[2021-09-21 23:12:19.200] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-21 23:12:27.685] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-21 23:12:27.686] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-21 23:12:37.685] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

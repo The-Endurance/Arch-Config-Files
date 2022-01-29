@@ -1,0 +1,6 @@
+2022/01/28-18:31:18.427 23fceb Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2022/01/28-18:31:18.432 23fceb Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/28-18:31:43.046 23fceb Level-0 table #5: started
+2022/01/28-18:31:43.047 23fceb Level-0 table #5: 2520 bytes OK
+2022/01/28-18:31:43.049 23fceb Delete type=0 #3
+2022/01/28-18:31:43.049 23fceb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

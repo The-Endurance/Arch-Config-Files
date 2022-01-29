@@ -1,0 +1,15 @@
+2022/01/29-10:21:32.389 5ef Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/Extension State/MANIFEST-000001
+2022/01/29-10:21:32.389 5ef Recovering log #106
+2022/01/29-10:21:32.400 5ef Reusing old log /home/sane/.config/microsoft-edge-dev/Default/Extension State/000106.log 
+2022/01/29-10:42:08.266 25fc Level-0 table #110: started
+2022/01/29-10:42:08.289 25fc Level-0 table #110: 2063280 bytes OK
+2022/01/29-10:42:08.292 25fc Delete type=0 #106
+2022/01/29-10:42:08.292 25e5 Compacting 4@0 + 1@1 files
+2022/01/29-10:42:08.325 25e5 Generated table #111@0: 4 keys, 8793 bytes
+2022/01/29-10:42:08.325 25e5 Compacted 4@0 + 1@1 files => 8793 bytes
+2022/01/29-10:42:08.326 25e5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/29-10:42:08.326 25e5 Delete type=2 #104
+2022/01/29-10:42:08.326 25e5 Delete type=2 #110
+2022/01/29-10:42:08.326 25e5 Delete type=2 #101
+2022/01/29-10:42:08.326 25e5 Delete type=2 #98
+2022/01/29-10:42:08.326 25e5 Delete type=2 #107

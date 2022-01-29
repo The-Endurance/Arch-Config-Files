@@ -1,0 +1,23 @@
+2022/01/29-16:10:50.920 9466 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/29-16:10:50.921 9466 Recovering log #3316
+2022/01/29-16:10:50.924 9466 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/003316.log 
+2022/01/29-16:11:05.504 930b Level-0 table #3326: started
+2022/01/29-16:11:05.521 930b Level-0 table #3326: 1372405 bytes OK
+2022/01/29-16:11:05.522 930b Delete type=0 #3316
+2022/01/29-16:11:07.713 930b Compacting 1@1 + 6@2 files
+2022/01/29-16:11:07.741 930b Generated table #3327@1: 1591 keys, 2143445 bytes
+2022/01/29-16:11:07.781 930b Generated table #3328@1: 12654 keys, 2164627 bytes
+2022/01/29-16:11:07.837 930b Generated table #3329@1: 27698 keys, 2267892 bytes
+2022/01/29-16:11:07.869 930b Generated table #3330@1: 5787 keys, 2177798 bytes
+2022/01/29-16:11:07.901 930b Generated table #3331@1: 8253 keys, 2167806 bytes
+2022/01/29-16:11:07.927 930b Generated table #3332@1: 9693 keys, 2203054 bytes
+2022/01/29-16:11:07.928 930b Generated table #3333@1: 2 keys, 90225 bytes
+2022/01/29-16:11:07.928 930b Compacted 1@1 + 6@2 files => 13214847 bytes
+2022/01/29-16:11:07.930 930b compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/01/29-16:11:07.930 930b Delete type=2 #3319
+2022/01/29-16:11:07.930 930b Delete type=2 #3326
+2022/01/29-16:11:07.930 930b Delete type=2 #3320
+2022/01/29-16:11:07.930 930b Delete type=2 #3318
+2022/01/29-16:11:07.930 930b Delete type=2 #3323
+2022/01/29-16:11:07.930 930b Delete type=2 #3321
+2022/01/29-16:11:07.931 930b Delete type=2 #3322

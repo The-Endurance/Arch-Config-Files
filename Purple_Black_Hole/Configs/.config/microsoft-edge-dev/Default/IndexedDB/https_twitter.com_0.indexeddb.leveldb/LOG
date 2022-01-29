@@ -1,0 +1,15 @@
+2022/01/08-22:25:02.033 28373 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/08-22:25:02.033 28373 Recovering log #4
+2022/01/08-22:25:02.033 28373 Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000004.log 
+2022/01/08-22:25:51.205 2d833 Level-0 table #8: started
+2022/01/08-22:25:51.207 2d833 Level-0 table #8: 13563 bytes OK
+2022/01/08-22:25:51.209 2d833 Delete type=0 #4
+2022/01/08-22:25:51.209 2d833 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/08-22:25:51.209 2d833 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x006\x004\x001\x006\x006\x000\x009\x001\x009\x001\x008\x009' @ 968 : 1
+2022/01/08-22:25:51.209 2d833 Compacting 1@1 + 1@2 files
+2022/01/08-22:25:51.211 2d833 Generated table #9@1: 36 keys, 1345 bytes
+2022/01/08-22:25:51.211 2d833 Compacted 1@1 + 1@2 files => 1345 bytes
+2022/01/08-22:25:51.213 2d833 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/08-22:25:51.213 2d833 Delete type=2 #5
+2022/01/08-22:25:51.213 2d833 Delete type=2 #8
+2022/01/08-22:25:51.213 2d833 Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x006\x004\x001\x006\x006\x000\x009\x001\x009\x001\x008\x009' @ 968 : 1 .. (end); will stop at (end)

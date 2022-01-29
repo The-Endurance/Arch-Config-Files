@@ -1,0 +1,6 @@
+2021/08/29-19:27:51.102 14e11 Creating DB /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.carousell.sg_0.indexeddb.leveldb since it was missing.
+2021/08/29-19:27:51.105 14e11 Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_www.carousell.sg_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/29-19:28:05.983 14b1b Level-0 table #5: started
+2021/08/29-19:28:05.985 14b1b Level-0 table #5: 820 bytes OK
+2021/08/29-19:28:05.986 14b1b Delete type=0 #3
+2021/08/29-19:28:05.986 14b1b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

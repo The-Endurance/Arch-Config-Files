@@ -1,0 +1,15 @@
+2022/01/29-16:06:32.144 930b Reusing MANIFEST /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/29-16:06:32.144 930b Recovering log #114
+2022/01/29-16:06:32.150 930b Reusing old log /home/sane/.config/microsoft-edge-dev/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000114.log 
+2022/01/29-16:10:24.966 9776 Level-0 table #119: started
+2022/01/29-16:10:24.973 9776 Level-0 table #119: 2975288 bytes OK
+2022/01/29-16:10:24.975 9776 Delete type=0 #114
+2022/01/29-16:10:24.976 9775 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/29-16:10:24.976 9776 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x001\x00c\x005\x00c\x008\x001\x009\x004\x00a\x004\x005\x00a\x00c\x00b\x000\x004\x006\x008\x00d\x004\x00a\x002\x002\x004\x006\x009\x003\x00a\x006\x005\x00a\x00d\x00_\x003\x00_\x005\x00:\x000\x000' @ 79496 : 1
+2022/01/29-16:10:24.976 9776 Compacting 1@1 + 1@2 files
+2022/01/29-16:10:25.030 9776 Generated table #120@1: 117 keys, 358280 bytes
+2022/01/29-16:10:25.030 9776 Compacted 1@1 + 1@2 files => 358280 bytes
+2022/01/29-16:10:25.031 9776 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/29-16:10:25.031 9776 Delete type=2 #116
+2022/01/29-16:10:25.031 9776 Delete type=2 #119
+2022/01/29-16:10:25.032 9776 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x001\x00c\x005\x00c\x008\x001\x009\x004\x00a\x004\x005\x00a\x00c\x00b\x000\x004\x006\x008\x00d\x004\x00a\x002\x002\x004\x006\x009\x003\x00a\x006\x005\x00a\x00d\x00_\x003\x00_\x005\x00:\x000\x000' @ 79496 : 1 .. (end); will stop at (end)

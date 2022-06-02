@@ -1,0 +1,10 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "Google Sans 16";
+ combi-modi: "window,drun,ssh";
+ icon-theme: "Papirus-Dark";
+// show-icons: true;
+
+ }
+
+ @theme "/home/sane/.config/rofi/themes/Pop-Dark.rasi"
